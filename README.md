@@ -56,4 +56,5 @@ Tracked monthly revenue trends for each menu category.
 - Identification of top-performing menu items and categories.
 - Trends in sales performance across weekdays, weekends, and months.
 - Actionable data to drive decision-making in menu strategy and operations.
+
 The **McDonald’s Sales Dashboard** is an essential tool for understanding sales trends and optimizing operations. By providing comprehensive insights into **sales performance**, **customer behavior**, and **time-based trends**, this dashboard empowers McDonald’s to make informed decisions that drive growth and operational excellence.
